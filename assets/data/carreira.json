@@ -1,0 +1,127 @@
+{
+  "seo": {
+    "title": "Sarah Lima | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Sarah Lima, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Sarah Lima",
+    "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
+  },
+  "profile": {
+    "name": "Sarah Lima",
+    "headline": "Educacao, Web e Gestao de TI",
+    "photo": "assets/images/profile.jpg",
+    "photoAlt": "Foto profissional de Sarah Lima",
+    "summary": "Tenho experiencia em desenvolvimento web, educacao e gestao de tecnologia. Participei de projetos que transformaram ideias em solucoes digitais e agora organizo meu mapa de carreira com foco em aprendizagem continua, colaboracao e impacto profissional.",
+    "cvUrl": "#"
+  },
+  "contacts": [
+    {
+      "label": "sarah.lima@example.com",
+      "url": "mailto:sarah.lima@example.com"
+    },
+    {
+      "label": "linkedin.com/in/sarahlima",
+      "url": "https://www.linkedin.com/in/sarahlima"
+    },
+    {
+      "label": "github.com/sarahlima",
+      "url": "https://github.com/sarahlima"
+    }
+  ],
+  "careerSteps": [
+    {
+      "title": "Desenvolvedora Junior",
+      "description": "Consolidar fundamentos de desenvolvimento web, versionamento, acessibilidade, logica de programacao e boas praticas de comunicacao em equipe.",
+      "softSkills": [
+        "Comunicacao clara para pedir ajuda e registrar aprendizados.",
+        "Organizacao para estudar, praticar e acompanhar tarefas.",
+        "Curiosidade para investigar problemas e testar solucoes."
+      ],
+      "roadmap": [
+        "HTML semantico",
+        "CSS responsivo",
+        "JavaScript",
+        "Git e GitHub",
+        "Acessibilidade"
+      ]
+    },
+    {
+      "title": "Desenvolvedora Pleno",
+      "description": "Atuar com mais autonomia, participar de decisoes tecnicas e entregar funcionalidades com qualidade, testes e documentacao.",
+      "softSkills": [
+        "Responsabilidade sobre entregas e prazos combinados.",
+        "Colaboracao em revisoes de codigo e planejamento.",
+        "Capacidade de explicar escolhas tecnicas para diferentes publicos."
+      ],
+      "roadmap": [
+        "React",
+        "Node.js",
+        "APIs REST",
+        "Testes automatizados",
+        "Banco de dados"
+      ]
+    },
+    {
+      "title": "Lideranca tecnica",
+      "description": "Contribuir para padroes de arquitetura, orientar pessoas em desenvolvimento e apoiar a tomada de decisao tecnica com base em dados e contexto.",
+      "softSkills": [
+        "Mentoria com escuta ativa e feedback construtivo.",
+        "Priorizacao entre impacto, custo, risco e aprendizado.",
+        "Visao sistemica sobre produto, pessoas e tecnologia."
+      ],
+      "roadmap": [
+        "Arquitetura de software",
+        "Cloud",
+        "Observabilidade",
+        "Seguranca"
+      ]
+    }
+  ],
+  "skillGroups": [
+    {
+      "title": "Frontend",
+      "skills": [
+        {
+          "name": "HTML, CSS e JavaScript",
+          "level": 85
+        },
+        {
+          "name": "React",
+          "level": 70
+        }
+      ]
+    },
+    {
+      "title": "Backend e dados",
+      "skills": [
+        {
+          "name": "Node.js e APIs",
+          "level": 65
+        },
+        {
+          "name": "SQL",
+          "level": 60
+        }
+      ]
+    }
+  ],
+  "otherSkills": [
+    "Git",
+    "Comunicacao",
+    "Documentacao",
+    "Code review"
+  ],
+  "languages": [
+    {
+      "name": "Portugues",
+      "level": "Nativo"
+    },
+    {
+      "name": "Ingles",
+      "level": "Tecnico"
+    },
+    {
+      "name": "Espanhol",
+      "level": "Profissional"
+    }
+  ]
+}
